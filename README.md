@@ -5,8 +5,9 @@
 
 Demonstration of a generator of chess moves for technicals tests in Java.
 
-[[https://github.com/alexisdemay/chess-demo-app/blob/master/img/screen_1.png|alt=screen_1]]
-[[https://github.com/alexisdemay/chess-demo-app/blob/master/img/screen_2.png|alt=screen_2]]
+![screen 1](https://raw.githubusercontent.com/alexisdemay/chess-demo-app/master/img/screen_1.png)
+
+![screen 2](https://raw.githubusercontent.com/alexisdemay/chess-demo-app/master/img/screen_2.png)
 
 ## Getting Started
 
