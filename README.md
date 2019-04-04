@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0.SNAPSHOT-green.svg)](https://gitlab.com/ademay/chess-demo-app/tree/master)
 [![Contributors](https://img.shields.io/badge/contributors-Alexis%20DEMAY-blue.svg)](https://github.com/alexisdemay)
 
-Demonstration of a generator of chess moves for technicals tests in Java.
+Demonstration of a chess moves generator for a technical test in Java.
 
 ![screen 1](https://raw.githubusercontent.com/alexisdemay/chess-demo-app/master/img/screen_1.png)
 
